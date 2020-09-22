@@ -1,5 +1,5 @@
 import os
-from flask import flask
+from Flask import Flask
 from flask.ext.mysql import MySQL
 app = Flask(__name__)
 
